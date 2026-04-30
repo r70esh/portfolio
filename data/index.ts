@@ -8,7 +8,7 @@ export const navItems = [
 export const gridItems = [
   {
     id: 1,
-    title: "I prioritize client collaboration, fostering open communication ",
+    title: "Passionate Food Technologist with over 3 years of experience in research, product development, and QA.",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -18,7 +18,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "I'm very flexible with time zone communications",
+    title: "Adept at food safety, product innovation, and rigorous laboratory analysis.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -28,8 +28,8 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "My tech stack",
-    description: "I constantly try to improve",
+    title: "My expertise",
+    description: "Food Microbiology, Product Development, & Quality Assurance",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
     titleClassName: "justify-center",
@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title: "Committed to advancing the field of food science through continuous learning and innovation.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -46,10 +46,9 @@ export const gridItems = [
     img: "/grid.svg",
     spareImg: "/b4.svg",
   },
-
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently working as a Research Assistant at Lalitpur Valley College",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -59,7 +58,7 @@ export const gridItems = [
   },
   {
     id: 6,
-    title: "Do you want to start a project together?",
+    title: "Do you want to collaborate on a food science or research initiative?",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -72,130 +71,125 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Muffin Shelf-life Evaluation",
+    des: "Evaluated germinated finger millet flour for food preservation and natural antioxidants.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "#",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    title: "Food Safety Advocacy",
+    des: "Participated in campaigns and workshops promoting awareness of food safety standards and practices.",
     img: "/p2.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "#",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "Laboratory Quality Assurance",
+    des: "Managed laboratory operations ensuring adherence to ISO 17025:2017 standards at Zest Laboratory.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "#",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Product Development",
+    des: "Led product development and renovation for snacks, biscuits, and cookies at Saubhagya Food.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "#",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Resha's dedication to food safety and meticulous approach to laboratory analysis has been outstanding. Her understanding of microbiology and product development is a huge asset.",
+    name: "Dr. Sharma",
+    title: "Head of Dept, Lalitpur Valley College",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Her expertise in product development helped us optimize our snack production while maintaining top-tier quality and adherence to HACCP standards.",
+    name: "Mr. Shrestha",
+    title: "Manager, Saubhagya Food",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "A highly competent Food Technologist, Resha consistently ensures compliance with ISO 17025:2017 standards, ensuring our analysis is always spot-on.",
+    name: "Ms. Thapa",
+    title: "Director, Zest Laboratory",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Resha demonstrates great enthusiasm for food science and quality assurance. A truly valuable team member who pays close attention to detail.",
+    name: "Mr. Karki",
+    title: "Supervisor, Rajdhani Dairy",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Her work on the evaluation of germinated finger millet flour is a great contribution to food preservation research and shows great promise.",
+    name: "Dr. Adhikari",
+    title: "Professor, Tribhuvan University",
   },
 ];
 
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
+    name: "Lalitpur Valley College",
     img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+   
   },
   {
     id: 2,
-    name: "appwrite",
+    name: "Zest Laboratory",
     img: "/app.svg",
-    nameImg: "/appName.svg",
+    
   },
-  {
-    id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
-  },
+ 
   {
     id: 4,
-    name: "stream",
+    name: "Rajdhani Dairy",
     img: "/s.svg",
-    nameImg: "/streamName.svg",
+   
   },
   {
     id: 5,
-    name: "docker.",
+    name: "DFTQC",
     img: "/dock.svg",
-    nameImg: "/dockerName.svg",
+   
   },
 ];
 
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Research / Teaching Assistant",
+    desc: "Lalitpur Valley College (2024–Present). Assist in data analysis, manage lab equipment, and provide instructional support.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
+    title: "Quality Control Officer",
+    desc: "Zest Laboratory and Research Center (2022–2024). Managed lab operations adhering to ISO 17025:2017 and conducted food testing.",
+    className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
+    title: "Food Technologist",
+    desc: "Saubhagya Food and Confectionery (2021–2022). Led product development, conducted manufacturing trials, and implemented HACCP.",
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Food Technologist (Intern)",
+    desc: "Rajdhani Dairy (2021). Performed platform testing on milk samples and conducted fat, protein, and microbial analysis.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },

@@ -15,9 +15,7 @@ const Approach = () => {
         <Card
           title="Planning & Strategy"
           icon={<AceternityIcon order="Phase 1" />}
-          des="We'll collaborate to map out your website's goals, target audience, 
-          and key functionalities. We'll discuss things like site structure, 
-          navigation, and content requirements."
+          des="I’ll collaborate to map out your product's goals, target consumer base, and essential nutritional profiles. We’ll discuss critical factors such as ingredient functionality, shelf-life requirements, and regulatory compliance (DFTQC/ISO) to ensure a solid foundation for development."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -28,9 +26,7 @@ const Approach = () => {
         <Card
           title="Development & Progress Update"
           icon={<AceternityIcon order="Phase 2" />}
-          des="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
-          every step of the way."
+          des="Once the objectives are clear, I dive into the lab. From conducting initial bench-top trials to performing rigorous physio-chemical and microbial analyses, I maintain a meticulous workflow to ensure precision. I’ll keep you updated on every iteration, from the first prototype to the refined sample."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -50,9 +46,7 @@ const Approach = () => {
         <Card
           title="Development & Launch"
           icon={<AceternityIcon order="Phase 3" />}
-          des="This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
-          from the ground up."
+          des="This is where the science comes to life! Based on the successful trials, I’ll translate the formulation into a standardized production protocol. I build the process from the ground up—implementing HACCP/ISO standards and sensory evaluations—to ensure the final product is safe, consistent, and ready for the market."
         >
           <CanvasRevealEffect
             animationSpeed={3}
