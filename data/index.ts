@@ -198,14 +198,12 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
+    img: "/insta.svg",
+    link: "https://www.instagram.com/accounts/login/?next=%2Fresha_dulal&source=omni_redirect",
   },
   {
     id: 2,
-    img: "/twit.svg",
-  },
-  {
-    id: 3,
     img: "/link.svg",
+    link: "https://www.linkedin.com/in/contactreshadulal",
   },
 ];
